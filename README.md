@@ -92,8 +92,4 @@ Ao executar apenas o `piloto`, as saídas terão apenas **uma instância** e fic
 - `criar_artigo_modelo.py`: código-fonte que gera o modelo do artigo;
 - `testes/test_modelo.py`: testes automatizados.
 
-## 7. Cuidados científicos antes de submeter
-
-Os valores de pesos são **experimentais**, não validados com especialistas. O artigo contém um referencial teórico e uma revisão narrativa estruturada, **não uma revisão sistemática já concluída**. Complete e documente buscas bibliográficas se o periódico pedir revisão sistemática. Avalie a estabilidade de conclusões, não omita resultados desfavoráveis ao híbrido, indique explicitamente que o benchmark é sintético e guarde o manifesto para reprodutibilidade.
-
 Referências metodológicas com DOI estão no documento Word. A origem dos dados é a OR-Library: <https://people.brunel.ac.uk/~mastjjb/jeb/orlib/wtinfo.html>.
